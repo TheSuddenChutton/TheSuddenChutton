@@ -1,0 +1,4 @@
+- Yo, I’m @TheSuddenChutton
+- I’m interested in strategy games, card games, game design and programming.
+- I like making new rules for existing games.
+- I’m currently learning how to code video games from scratch.
